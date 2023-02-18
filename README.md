@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Systems Development student and this is my github
+#### I'm a Systems Development student and this is my GitHub :)
 
 -----------
 
