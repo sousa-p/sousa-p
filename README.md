@@ -30,4 +30,8 @@
 
 -----------
 
+![snake_animation](https://github.com/sousa-p/sousa-p/blob/output/github-contribution-grid-snake-dark.svg)
+
+-----------
+
 ### That's all folks!
