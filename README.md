@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
+  <img width="12" />
 </div>
 
 </p>
