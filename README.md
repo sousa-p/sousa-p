@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel"  />
+  <img width="12" />
 </div>
 
 </p>
@@ -56,12 +58,13 @@
 
 ### Learning
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
 </p>
 
 -----------
