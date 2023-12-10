@@ -50,6 +50,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
 </div>
 
 </p>
@@ -62,9 +65,6 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
 </p>
 
 -----------
