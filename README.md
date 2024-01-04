@@ -63,10 +63,12 @@
 
 ### Learning
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-<img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
 </p>
 
 -----------
