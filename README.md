@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Systems Development technician and this is my GitHub :)
-
+### I'm a Systems Development technician and this is my GitHub :)
 
 -----------
 
