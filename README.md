@@ -66,9 +66,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=net" height="40" alt=".net logo"  />
   <img width="12" />
 </p>
 
