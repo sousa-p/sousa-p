@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-### I'm a Systems Development technician and this is my GitHub :) 
+I'm a Systems Development technician, currently studying Systems Analysis and Development, and this is my GitHub :)
+
+<img alt="penguin" src="./assets/penguin.gif" width="64px" />
+
 -----------
 
 ### Languages and Tools
@@ -72,6 +75,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
 </div>
 
 </p>
@@ -80,7 +85,6 @@
 
 ### Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -96,5 +100,3 @@
   <a href = "mailto:p.soousa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sousa-p" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<img alt="penguin" src="./assets/penguin.gif" width="64px" />
